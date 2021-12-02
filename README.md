@@ -18,10 +18,12 @@ const Renan = {
             Java: ["Spring Boot", "Maven", "Hibernate", "JPA", "JUnit","Mockito"],
             PHP: ["Symfony","Zend","Twig", "Blade"]
         },
-        Message: ["Kafka", "RabbitMQ", "IBM MQ"]
+        Message: ["Kafka", "RabbitMQ", "IBM MQ"],
         Tools: ["Docker🐳", "Git", "SSH"],
         databases: ["MongoDB", "MySql"],
     },
+    Editors: ["IntelliJ", "VsCode"],
+    SO: ["Windows","Ubuntu"],
     currentFocus: "Java Backend Engineer"
 };
 ```
