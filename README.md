@@ -30,4 +30,6 @@ const Renan = {
 
 **I Mostly Code in Java**
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=renanponcianop&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 Inspired by: [anmol098](https://github.com/anmol098/anmol098]
